@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cse_c">CSE(C)</string>
+    <string name="clazz">Class:</string>
+    <string name="myrollno">22303187</string>
+    <string name="roll_no">Roll No:</string>
+    <string name="myname">Rajneesh Kumar</string>
+    <string name="name">Name:</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">Login to your Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="or_sign_in_with">-Or sign in with-</string>
+    <string name="signin">Sign in</string>
+    <string name="don_t_have_an_account">Don,t have an account?</string>
+    <string name="signup">Signup</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="or_sign_up_with">Or sign up with</string>
+    <string name="create_your_account">Create your Account</string>
+    <string name="sign_up">Sign up</string>
+    <string name="username">Rajneesh Kumar</string>
+    <string name="profession">Android Developer</string>
+    <string name="fn">75k</string>
+    <string name="followers">Followers</string>
+    <string name="fn2">16k</string>
+    <string name="projects">Projects</string>
+    <string name="pnumber">600</string>
+    <string name="followings">Followings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
