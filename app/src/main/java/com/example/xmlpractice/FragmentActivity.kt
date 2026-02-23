@@ -1,11 +1,11 @@
-package com.example.myapplication
+package com.example.xmlpractice
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.example.myapplication.databinding.ActivityFragmentBinding
+import com.example.xmlpractice.databinding.ActivityFragmentBinding
 
 class FragmentActivity : AppCompatActivity() {
     lateinit var binding: ActivityFragmentBinding
