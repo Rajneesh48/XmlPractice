@@ -35,4 +35,6 @@ dependencies {
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
     implementation("de.hdodenhof:circleimageview:3.1.0")
+    implementation(libs.androidx.constraintlayout)
+    implementation(libs.androidx.cardview)
 }
